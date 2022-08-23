@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @swiftlyBenton.
+- 👀 I’m interested in making apps with Swift.
+- 🌱 I’m currently learning the Ohio Sate University development with Swift course.
+- 💞️ I’m not currently looking to collaborate.
+- 📫 Please don't try to reach me yet.
