@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @swiftlyBenton.
-- 👀 I’m interested in using python
-- and other languages to create aerospace
-- projects and tools!
+- 👀 I’m interested in using python and other languages to create aerospace projects and tools!
